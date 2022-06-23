@@ -8,7 +8,8 @@ graphql
 utilizando para icones - phospor
 date-fns para formatar datas
 utilizando vime para fins de reprodução de video no site
-react-router-dom 
+react-router-dom
+
 
 No component Video criar Button
 TODO - criar Buttons
@@ -20,3 +21,7 @@ Adicionar Footer
 Deixar responsivo
 
 Próximo projeto, trailers de jogos na plataforma - principalmente warzone hehe
+
+Adiciona algum conteudo quando não tiver slug, pagina event sem ter aula
+
+Spiner ou loading na tela de video enquanto os dados estão sendo buscados
