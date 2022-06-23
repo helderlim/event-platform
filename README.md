@@ -25,3 +25,5 @@ Próximo projeto, trailers de jogos na plataforma - principalmente warzone hehe
 Adiciona algum conteudo quando não tiver slug, pagina event sem ter aula
 
 Spiner ou loading na tela de video enquanto os dados estão sendo buscados
+
+Corrigir erro de requisição quando id do youtube for diferente
