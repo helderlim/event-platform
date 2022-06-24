@@ -1,32 +1,75 @@
-### utilizando nesse projeto 
+# Event Platform Ignite
 
-vite 
-tailwindcss
-Headless CMS (GraphCMS)
-Apollo client para realizar requisiçõe de GraphCSM
-graphql
-utilizando para icones - phospor
-date-fns para formatar datas
-utilizando vime para fins de reprodução de video no site
-react-router-dom
+<img src="exemplo-image.png" alt="exemplo imagem">
 
+> Tela de acesso aos conteudos
 
-No component Video criar Button
-TODO - criar Buttons
-          passar props 'variants' que vai definir o tipo do botão, passar por props tbm o texto do botão
-Criar component person
+### O que usamos nesse projeto
 
-Adicionar Footer
+- Vite
+- React
+- Tailwindcss
+- Headless CMS (GraphCMS)
+- Apollo Client
+- GraphQl
+- Phospor para icones
+- Date-fns
+- Vime reprodução de video
+- React-router-dom
 
-Deixar responsivo
+### Ajustes e melhorias
 
-Próximo projeto, trailers de jogos na plataforma - principalmente warzone hehe
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-Adiciona algum conteudo quando não tiver slug, pagina event sem ter aula
+- [ ] Adicionar Footer
+- [ ] Responsividade
+- [ ] Spiner no botão do formulário
 
-Spiner ou loading na tela de video enquanto os dados estão sendo buscados
+## 🚀 Instalando Event Platform Ignite
 
-Corrigir erro de requisição quando id do youtube for diferente
+Para instalar o Event Platform Ignite, siga estas etapas:
 
-Adicionar spiner no loading do botão 
+```
+$ nvm use
+
+$ npm i
+
+```
+
+## ☕ Usando Event Platform Ignite
+
+Para usar Event Platform Ignite, siga estas etapas:
+
+```
+$ npm run dev
+```
+
+## 📫 Contribuindo para Event Platform Ignite
+
+Para contribuir com Event Platform Ignite, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt="Foto do Helder no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
