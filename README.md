@@ -16,6 +16,7 @@
 - Date-fns
 - Vime reprodução de video
 - React-router-dom
+- [graphql-code-generator](https://www.graphql-code-generator.com/docs/guides/react#apollo-and-urql)
 
 ### Ajustes e melhorias
 
